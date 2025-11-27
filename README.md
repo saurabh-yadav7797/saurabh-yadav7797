@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="" target="_blank">
-    <img alt="LinkedIn" src="www.linkedin.com/in/saurabh-yadav7797" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/progax01" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
