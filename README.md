@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Anurag Sahu</h1>
-<h3 align="center">Blockchain Developer | DeFi Protocol Architect | Co-Founder @ SETU 🌉</h3>
+<h1 align="center">Hey there 👋, I'm Saurabh Yadav</h1>
+<h3 align="center">Blockchain Developer | DeFi Protocol Architect |</h3>
 
 <p align="center">
   <a href="" target="_blank">
@@ -11,7 +11,7 @@
   <a href="mailto:anurag35412@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/progax01" target="_blank">
+  <a href="https://t.me/saurabh-yadav7797" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
@@ -20,11 +20,10 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building **SETU**, a decentralized bridge enabling seamless cross-chain interoperability between EVM and non-EVM chains.
 - ⚙️ Specializing in **Solidity**, **Rust**, **DeFi Protocols**, **Cross-Chain Bridges**, and **Smart Contract Architecture**.
 - 💡 Passionate about **on-chain governance**, **liquidity mechanisms**, and **scalable Web3 infrastructure**.
-- 🛠️ Worked across ecosystems including **Ethereum, Solana, ICP, StarkNet, BNB Chain, Partisia, and more**.
-- 🧪 Built DEXs, arbitrage bots, NFT platforms, DAO tooling, proxy patterns, and smart contract SDKs.
+- 🛠️ Worked across ecosystems including **Ethereum, Solana, ICP, StarkNet, BNB Chain, and more**.
+- 🧪 Built DEXs, NFT platforms, DAO tooling, proxy patterns, and smart contract SDKs.
 
 ---
 
@@ -46,10 +45,10 @@
 #### 🛠️ Technical Skills
 
 **Languages:**  
-`Rust`, `Solidity`, `JavaScript`, `TypeScript`, `Python`, `C/C++`, `CSS`, `HTML`, `Motoko`, `Move`
+`Rust`, `Solidity`, `JavaScript`, `TypeScript`, `C++`, `CSS`, `HTML`
 
 **Frameworks & Tools:**  
-`Anchor`, `Hardhat`, `Foundry`, `React.js`, `Node.js`, `Express.js`, `MERN`, `Tailwind CSS`, `Bootstrap`, `Docker`, `WordPress`
+`Anchor`, `Hardhat`, `Foundry`, `React.js`, `Node.js`, `Express.js`, `MERN`, `Tailwind CSS`
 
 **Blockchain Platforms & Concepts:**  
 `Ethereum`, `Solana`, `ICP`, `StarkNet`, `BNB Chain`, `Partisia`, `Hyperledger Fabric`, `Aptos`, `SUI`, `Polygon`, `Optimism`, `Arbitrum`, `EVM & Non-EVM`, `L1/L2`, `zk-Rollups`, `Optimistic Rollups`, `Token Standards`, `Upgradable Proxy`, `Diamond Proxy`, `Staking`, `Escrow`, `Bridges`, `DEX`, `AMM`, `Permit2`, `Uniswap`, `0x`, `1inch`
