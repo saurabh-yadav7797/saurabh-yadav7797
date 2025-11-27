@@ -5,13 +5,13 @@
   <a href="https://www.linkedin.com/in/saurabh-yadav7797/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/progax01" target="_blank">
+  <a href="https://github.com/saurabh-yadav7797" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:anurag35412@gmail.com">
+  <a href="mailto:saur2829@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/saurabh-yadav7797" target="_blank">
+  <a href="https://t.me/saur7797" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
