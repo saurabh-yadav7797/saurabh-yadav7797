@@ -74,10 +74,6 @@
 
 ### 📌 Featured Projects
 
-- 🌉 [**SETU - Cross-Chain Bridge**](https://github.com/progax01) – Seamless EVM ↔ Non-EVM asset transfers using canister-based signing.
-- 💸 [**Hedge.fun**](https://solanafund.netlify.app/) – Solana-based DeFi ETF platform supporting yield strategies and DEX integrations.
-- 🪙 [**Cross-Chain Token Standard**](https://github.com/anurag-sahu01/wstf_crosschain_token) – Gas-optimized, multi-chain token protocol for asset issuance.
-- 🤖 [**Sniping Bot**](https://t.me/sidebasebot) – Telegram-powered arbitrage bot with real-time monitoring and execution logic.
 
 ---
 
